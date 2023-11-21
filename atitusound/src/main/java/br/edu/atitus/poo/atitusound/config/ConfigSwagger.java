@@ -19,7 +19,7 @@ public class ConfigSwagger {
 						.version("Version 1.0.0")
 						.contact(new Contact()
 								.name("Desenvolvedor ABNER/ARIEL")
-								.email("1134868@atitus.edu.br/1134433@atitus.edu.br")));
+								.email("1134868@atitus.edu.br/1134433@atitus.edu.br.")));
 	}
 	
 }
